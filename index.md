@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://media.discordapp.net/attachments/722564512410239067/1282776664522362960/1688623407912.png?ex=66e0965d&is=66df44dd&hm=d8e93d1149fb377770781cd2d717665bf8a1a85e199ebf0a06e56061034dd1cb&=&format=webp&quality=lossless&width=583&height=365)
+![](https://media.discordapp.net/attachments/722564512410239067/1282778349491458048/image.png?ex=66e097ef&is=66df466f&hm=35cbea6cce95bbc069fecbd42d7444f4f68b1f596b97d4e9e1cfe0c362e416da&=&format=webp&quality=lossless&width=1920&height=822)
 
 # SRCP AI-Audit
 
@@ -15,5 +15,7 @@ layout: default
 Click on the response that you think is best.
 
 **How would you rate the quality of the answer you chose, from 1 (worst) to 5 (best)?**
+![](https://media.discordapp.net/attachments/722564512410239067/1282777972184580106/image.png?ex=66e09795&is=66df4615&hm=ac621bd2e38c24e1ab545801743794de70a61176e6ebb11f8e14989e0f687aaf&=&format=webp&quality=lossless&width=888&height=229)
 
 **How would you rate how relevant the answer is in replying to the question?**
+![](https://media.discordapp.net/attachments/722564512410239067/1282777972184580106/image.png?ex=66e09795&is=66df4615&hm=ac621bd2e38c24e1ab545801743794de70a61176e6ebb11f8e14989e0f687aaf&=&format=webp&quality=lossless&width=888&height=229)
