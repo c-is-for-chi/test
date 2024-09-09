@@ -5,11 +5,11 @@ permalink:        pretty
 
 
 # Setup
-title:            DSSG Project Name
+title:            SRCP AI-Audit
 tagline:          ''
-description:      'A 2022 Data Science for Social Good summer fellowship project at the University of Washington' 
-url:              "https://uwescience.github.io"
-baseurl:          "/DSSG-website-template"
+description:      'A research into the bias of Large Language Models (LLMs) by the interns of Dr. Mashhadi team of the University of Washington 2024'
+url:              "https://c-is-for-chi.github.io/test/"
+baseurl:          "/test"
 
 
 paginate:         5
@@ -18,4 +18,4 @@ paginate:         5
 version:          0.0.0
 
 github:
-  repo:           https://github.com/uwescience/DSSG-website-template/
+  repo:           https://github.com/c-is-for-chi/test

@@ -5,14 +5,14 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# SRCP AI-Audit
 
 ## The Team
 
-**Project Lead/s:**
+**Project Mentor: Dr. Afra Mashhadi**
 
-**Data Science Lead/s:** 
+**Project Interns: Erica Au, Mariam Mohammed** 
 
-**DSSG Fellows:** 
+**With help from: (can insert PhD student names here)** 
 
-# Abstract or executive summary
+# Our audit on quantifying and disseminating our learnings of Machine Learning to a broader audience.
