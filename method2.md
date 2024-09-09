@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Method 2
+title: PhD Student Responses
 ---
 
-
+Insert contact info for PhD students and their CSV human responses

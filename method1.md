@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Method 1
+title: Reddit Sources
 ---
 
-
+Insert links from original reddit posts here

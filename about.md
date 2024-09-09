@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
 
 ### About
 
-Team Photo
+Insert Team Photos Here
 
 Individual Bios
 
